@@ -12,18 +12,16 @@ I've left some boilerplate below for you.
 
 */
 
-body {
-
-}
+body {}
 
 article {
-
+    display: block;
+    max-width: 960px;
+    width: 100%;
 }
 
-h1 {
-
-}
+h1 {}
 
 img {
-
+    max-width: 100%
 }
